@@ -1,0 +1,10 @@
+C:\Users\woshi\Desktop\dm码生成\dm码生成\bin\Debug\dm码生成.exe.config
+C:\Users\woshi\Desktop\dm码生成\dm码生成\bin\Debug\dm码生成.exe
+C:\Users\woshi\Desktop\dm码生成\dm码生成\bin\Debug\dm码生成.pdb
+C:\Users\woshi\Desktop\dm码生成\dm码生成\bin\Debug\DataMatrix.net.dll
+C:\Users\woshi\Desktop\dm码生成\dm码生成\obj\Debug\dm码生成.csprojResolveAssemblyReference.cache
+C:\Users\woshi\Desktop\dm码生成\dm码生成\obj\Debug\dm码生成.Form1.resources
+C:\Users\woshi\Desktop\dm码生成\dm码生成\obj\Debug\dm码生成.Properties.Resources.resources
+C:\Users\woshi\Desktop\dm码生成\dm码生成\obj\Debug\dm码生成.csproj.GenerateResource.Cache
+C:\Users\woshi\Desktop\dm码生成\dm码生成\obj\Debug\dm码生成.exe
+C:\Users\woshi\Desktop\dm码生成\dm码生成\obj\Debug\dm码生成.pdb
