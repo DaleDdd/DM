@@ -156,7 +156,7 @@ namespace dm码生成
             g2.ReleaseHdc(dc2);
             myImage.Save(@"C:\Users\woshi\Desktop\dm码生成\dm码.jpg", ImageFormat.Bmp);
         }
-
+//demo
             [System.Runtime.InteropServices.DllImportAttribute("gdi32.dll ")]
             private static extern bool BitBlt(
                 IntPtr hdcDest, // handle to destination DC 
@@ -168,7 +168,6 @@ namespace dm码生成
                 int nXSrc, // x-coordinate of source upper-left corner 
                 int nYSrc, // y-coordinate of source upper-left corner 
                 System.Int32 dwRop // raster operation code
-                //demo
             );
 
         private void button2_Click(object sender, EventArgs e)
