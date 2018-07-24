@@ -168,6 +168,7 @@ namespace dm码生成
                 int nXSrc, // x-coordinate of source upper-left corner 
                 int nYSrc, // y-coordinate of source upper-left corner 
                 System.Int32 dwRop // raster operation code
+                //123
             );
 
         private void button2_Click(object sender, EventArgs e)
